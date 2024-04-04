@@ -5,3 +5,4 @@
 4.[lab5](https://github.com/k1hadar2/khadar/blob/main/lab_5.ipynb)
 5.[lab6](https://github.com/k1hadar2/khadar/blob/main/LAB_6.ipynb)
 6[lab 9]{https://github.com/k1hadar2/khadar/blob/main/Assignment9.ipynb}
+7[lab 7]{https://github.com/k1hadar2/khadar/blob/main/Assignment_7.ipynb}
