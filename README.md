@@ -7,3 +7,4 @@
 6[lab 9] (https://github.com/k1hadar2/khadar/blob/main/Assignment9.ipynb)
 7[lab 7] (https://github.com/k1hadar2/khadar/blob/main/Assignment_7.ipynb)
 8[lab 8] (https://github.com/k1hadar2/khadar/blob/main/Assignment_8.ipynb)
+lab[9]   (https://github.com/k1hadar2/khadar/blob/main/LAB_09.ipynb) 
